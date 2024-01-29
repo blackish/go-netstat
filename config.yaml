@@ -1,0 +1,16 @@
+period: 60
+localSite:
+  address: 127.0.0.1
+  region: msk
+  site: home
+remoteSites:
+  - 
+    address: 10.77.1.98
+    region: msk
+    site: home
+influxUrl: http://127.0.0.1:8086
+port: 9999
+influxBucket: mts
+influxOrg: mts
+influxToken: <>
+
